@@ -1,6 +1,10 @@
 <!-- Приветственный баннер -->
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=0:4facfe,100:00f2fe&height=200&section=header&text=Привет!%20Я%20Нурбек&fontSize=45&fontColor=ffffff)
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=4FACFE&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+Open+to+work" alt="Typing SVG">
+</p>
+
 ## 👨‍💻 Обо мне
 - 💻 Фронтенд-разработчик (HTML, CSS, JS)  
 - 🎯 Специализация: адаптивная вёрстка по макетам Figma  
