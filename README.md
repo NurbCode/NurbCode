@@ -1,43 +1,48 @@
-# Привет! 👋 Меня зовут [Твоё Имя]
+<!-- Приветственный баннер -->
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:4facfe,100:00f2fe&height=200&section=header&text=Привет!%20Я%20Нурбек&fontSize=45&fontColor=ffffff)
 
-💻 Я начинающий фронтенд-разработчик, занимаюсь вёрсткой сайтов по макетам Figma и созданием адаптивных интерфейсов.  
-🚀 Хочу развиваться в веб-разработке и брать заказы на фрилансе.
-
----
-
-## 🛠️ Мой стек технологий:
-- HTML5, CSS3 (Flexbox, Grid, адаптивная верстка)
-- JavaScript (ES6+)
-- Git, GitHub
-- Figma (работа с макетами)
-- (добавь свои технологии: React, Tailwind, Bootstrap и т.д.)
+## 👨‍💻 Обо мне
+- 💻 Фронтенд-разработчик (HTML, CSS, JS)  
+- 🎯 Специализация: адаптивная вёрстка по макетам Figma  
+- 🚀 Цель: расти как разработчик и собирать сильное портфолио  
 
 ---
 
-## 📂 Мои проекты:
-- 🌐 [Landing Page по макету Figma](https://username.github.io/landing-figma-1/)  
-- 🌐 [Адаптивный сайт для магазина](https://username.github.io/shop-template/)  
-- 🌐 [Портфолио](https://username.github.io/portfolio/)  
-
-(Добавь свои реальные проекты)
-
----
-
-## 📊 GitHub Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)  
-
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+## 🛠️ Стек технологий
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
 ---
 
-## 📫 Контакты:
-- Email: [твой email]  
-- Telegram: [@твой_ник](https://t.me/твой_ник)  
-- LinkedIn (если есть): [ссылка]  
+## 📂 Мои проекты
+| 💻 Проект | 🔗 Ссылка | 📌 Описание |
+|-----------|----------|-------------|
+| Landing Page по макету Figma | [Demo](https://username.github.io/landing-figma-1/) | Адаптивная вёрстка |
+| Интернет-магазин (шаблон) | [Demo](https://username.github.io/shop-template/) | Каталог + корзина |
+| Портфолио | [Demo](https://username.github.io/portfolio/) | Мои работы |
 
 ---
 
-⭐️ Если интересен мой код — ставьте ⭐️ на проекты!
+## 📊 GitHub Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/ТВОЙ_НИК)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:ТВОЙ_EMAIL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://linkedin.com/in/ТВОЙ_ПРОФИЛЬ)
+
+---
+
+<!-- Нижний баннер -->
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:00f2fe,100:4facfe&height=120&section=footer)
+
 
 <!--
 **NurbekMeneshov/NurbekMeneshov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
