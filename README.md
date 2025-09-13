@@ -25,7 +25,7 @@
 ## 📂 Мои проекты
 | 💻 Проект | 🔗 Ссылка | 📌 Описание |
 |-----------|----------|-------------|
-| Landing Page по макету Figma | [Demo](https://username.github.io/landing-figma-1/) | Адаптивная вёрстка |
+| Alivio Landing | [Demo](https://nurbcode.github.io/alivio-landing/) | Простая верстка |
 | Интернет-магазин (шаблон) | [Demo](https://username.github.io/shop-template/) | Каталог + корзина |
 | Портфолио | [Demo](https://username.github.io/portfolio/) | Мои работы |
 
