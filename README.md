@@ -32,8 +32,12 @@
 ---
 
 ## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbCode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurbCode&layout=compact&theme=tokyonight)
+
+<!-- Карта с основными статистиками -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbCode&show_icons=true&theme=tokyonight&count_private=true)
+
+<!-- Карта Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurbCode&theme=tokyonight&layout=compact&count_private=true)
 
 ---
 
