@@ -32,7 +32,7 @@
 ---
 
 ## 📊 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbCode&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurbCode&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NurbCode&layout=compact&theme=tokyonight)
 
 ---
