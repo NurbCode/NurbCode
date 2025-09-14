@@ -26,7 +26,7 @@
 | 💻 Проект | 🔗 Ссылка | 📌 Описание |
 |-----------|----------|-------------|
 | Alivio Landing | [Demo](https://nurbcode.github.io/alivio-landing/) | Простая верстка |
-| Интернет-магазин (шаблон) | [Demo](https://username.github.io/shop-template/) | Каталог + корзина |
+| Farmzi Landing | [Demo](https://nurbcode.github.io/farmzi-landing/)| Каталог + корзина |
 | Портфолио | [Demo](https://username.github.io/portfolio/) | Мои работы |
 
 ---
